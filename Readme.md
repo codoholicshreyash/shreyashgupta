@@ -34,8 +34,8 @@ I’ve worked with an amazing group of engineers and creators on college and int
 Languages:
   - Verilog
   - Dart & Flutter
-  - Python
   - C/C++
+
 Tools:
   - Vivado
   - STM32CubeMX
