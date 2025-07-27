@@ -16,6 +16,12 @@
 
 ---
 
+### 👥 Meet My Teammates
+I’ve worked with an amazing group of engineers and creators on college and internship projects.
+🛠 From hardware design to app UX, we’ve built things with a passion for perfection.
+
+---
+
 ### 🧠 Skills & Knowledge
 
 ```yaml
