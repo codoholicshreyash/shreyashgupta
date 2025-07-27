@@ -1,17 +1,31 @@
+<!-- README.md for your GitHub profile -->
+
+<h1 align="center">Hi 👋, I'm Shreyash Gupta</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyashgupta-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashgupta-dev" />
+</p>
 
 ---
 
-### 🧩 Instructions:
-1. Replace:
-   - `shreyashgupta-dev` with your actual GitHub username
-   - `your-image-link.com` with real image URLs (host on GitHub, Imgur, etc.)
-   - LinkedIn/Instagram handles
-2. Push this in the repo named **exactly the same as your GitHub username**
-3. Enable GitHub profile README from GitHub → Profile → Edit
+### 👨‍💻 About Me
 
-Would you like me to:
-- Create an actual folder with this and `images/` placeholders?
-- Include animations or Lottie files too?
-- Add sections for blogs or certifications?
+- 🔭 I’m currently working on some **FPGA, Embedded, and Flutter-based projects**
+- 🌱 Learning **advanced Verilog**, **VLSI Design**, and **cross-platform development**
+- 🤝 I love collaborating with talented teammates on innovative tech
+- 🚀 Always open to new ideas, hackathons, and challenging problems
 
-Let me know and I can prepare a full ZIP or GitHub-ready repo.
+---
+
+### 🧠 Skills & Knowledge
+
+```yaml
+Languages:
+  - Verilog
+  - Dart & Flutter
+  - Python
+  - C/C++
+Tools:
+  - Vivado
+  - STM32CubeMX
+  - Firebase
+  - GetX / BLoC
