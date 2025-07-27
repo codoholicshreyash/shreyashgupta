@@ -16,10 +16,16 @@
 
 ---
 
+
 ### 👥 Meet My Teammates
 I’ve worked with an amazing group of engineers and creators on college and internship projects.
 🛠 From hardware design to app UX, we’ve built things with a passion for perfection.
 
+---
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram-fi&logoColor=white)]([https://x.com/shreyashgupta91)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/shreyash-gupta-a423ba255/))
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 ---
 
 ### 🧠 Skills & Knowledge
@@ -35,3 +41,5 @@ Tools:
   - STM32CubeMX
   - Firebase
   - GetX / BLoC
+
+
